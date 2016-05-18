@@ -4,4 +4,4 @@
     + Assumptions, Causality, Instrumental Variables...
 + Time Series models:
     + ARIMA and GARCH.
-+ Using R.
++ Using **R**.
